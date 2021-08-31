@@ -17,6 +17,7 @@ namespace BAITAP.QUANG
             if (disposing && (components != null))
             {
                 components.Dispose();
+                //chuthich
             }
             base.Dispose(disposing);
         }
